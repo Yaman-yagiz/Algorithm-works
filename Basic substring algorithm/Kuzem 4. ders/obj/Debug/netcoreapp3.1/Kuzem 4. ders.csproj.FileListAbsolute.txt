@@ -1,0 +1,13 @@
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\bin\Debug\netcoreapp3.1\Kuzem 4. ders.exe
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\bin\Debug\netcoreapp3.1\Kuzem 4. ders.deps.json
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\bin\Debug\netcoreapp3.1\Kuzem 4. ders.runtimeconfig.json
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\bin\Debug\netcoreapp3.1\Kuzem 4. ders.runtimeconfig.dev.json
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\bin\Debug\netcoreapp3.1\Kuzem 4. ders.dll
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\bin\Debug\netcoreapp3.1\Kuzem 4. ders.pdb
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.csprojAssemblyReference.cache
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.csproj.CoreCompileInputs.cache
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.AssemblyInfoInputs.cache
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.AssemblyInfo.cs
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.dll
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.pdb
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 4. ders\Kuzem 4. ders\obj\Debug\netcoreapp3.1\Kuzem 4. ders.genruntimeconfig.cache

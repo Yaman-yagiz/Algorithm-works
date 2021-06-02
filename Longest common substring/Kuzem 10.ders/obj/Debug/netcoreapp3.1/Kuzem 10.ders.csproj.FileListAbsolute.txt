@@ -1,0 +1,13 @@
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\bin\Debug\netcoreapp3.1\Kuzem 10.ders.exe
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\bin\Debug\netcoreapp3.1\Kuzem 10.ders.deps.json
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\bin\Debug\netcoreapp3.1\Kuzem 10.ders.runtimeconfig.json
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\bin\Debug\netcoreapp3.1\Kuzem 10.ders.runtimeconfig.dev.json
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\bin\Debug\netcoreapp3.1\Kuzem 10.ders.dll
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\bin\Debug\netcoreapp3.1\Kuzem 10.ders.pdb
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.csprojAssemblyReference.cache
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.csproj.CoreCompileInputs.cache
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.AssemblyInfoInputs.cache
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.AssemblyInfo.cs
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.dll
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.pdb
+C:\Users\Yağız Yaman\Desktop\Okul\KUZEM\Algoritmalar\Kuzem 10.ders\Kuzem 10.ders\obj\Debug\netcoreapp3.1\Kuzem 10.ders.genruntimeconfig.cache
